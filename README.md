@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Levik931
 - 👀 I’m interested in Object Oriented Programming, JavaScript, React and Redux, C++, Swift and DevOps
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning React.js
 
 
 <!---
