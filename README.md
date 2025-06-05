@@ -1,6 +1,4 @@
-- Hi, I’m @Levik931
-- I’m interested in Object Oriented Programming, JavaScript, React, C++, Swift and DevOps
-- I’m currently learning node and React.js
+- Hi, I’m @Levik931, Full-stack software developer here!
 
 
 <!---
