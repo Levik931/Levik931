@@ -1,4 +1,4 @@
-- Hi, I’m @Levik931, Full-stack software developer here!
+- Hi, I’m @Levik931, Full-stack software developer at Niagara Bottling LLC
 
 
 <!---
